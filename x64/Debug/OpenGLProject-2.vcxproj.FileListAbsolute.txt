@@ -1,0 +1,2 @@
+C:\Users\hhh317\Visual Studio 2019\OpenGLProject-2\x64\Debug\OpenGLProject-2.exe
+C:\Users\hhh317\Visual Studio 2019\OpenGLProject-2\x64\Debug\OpenGLProject-2.pdb
