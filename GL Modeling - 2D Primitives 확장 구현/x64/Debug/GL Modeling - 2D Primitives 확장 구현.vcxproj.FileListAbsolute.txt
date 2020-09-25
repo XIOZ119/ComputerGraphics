@@ -1,0 +1,2 @@
+C:\Users\hhh317\Visual Studio 2019\OpenGLProject\GL Modeling - 2D Primitives 확장 구현\x64\Debug\GL Modeling - 2D Primitives 확장 구현.exe
+C:\Users\hhh317\Visual Studio 2019\OpenGLProject\GL Modeling - 2D Primitives 확장 구현\x64\Debug\GL Modeling - 2D Primitives 확장 구현.pdb

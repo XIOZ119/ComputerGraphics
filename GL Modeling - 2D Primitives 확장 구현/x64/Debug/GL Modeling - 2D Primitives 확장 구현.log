@@ -1,0 +1,7 @@
+﻿  GL_Modeling.cpp
+C:\Users\hhh317\Visual Studio 2019\OpenGLProject\GL Modeling - 2D Primitives 확장 구현\GL_Modeling.cpp(169,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hhh317\Visual Studio 2019\OpenGLProject\GL Modeling - 2D Primitives 확장 구현\GL_Modeling.cpp(172,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hhh317\Visual Studio 2019\OpenGLProject\GL Modeling - 2D Primitives 확장 구현\GL_Modeling.cpp(173,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hhh317\Visual Studio 2019\OpenGLProject\GL Modeling - 2D Primitives 확장 구현\GL_Modeling.cpp(174,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hhh317\Visual Studio 2019\OpenGLProject\GL Modeling - 2D Primitives 확장 구현\GL_Modeling.cpp(176,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  GL Modeling - 2D Primitives 확장 구현.vcxproj -> C:\Users\hhh317\Visual Studio 2019\OpenGLProject\GL Modeling - 2D Primitives 확장 구현\x64\Debug\GL Modeling - 2D Primitives 확장 구현.exe

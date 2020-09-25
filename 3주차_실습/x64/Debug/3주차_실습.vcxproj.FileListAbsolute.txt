@@ -1,0 +1,2 @@
+C:\Users\hhh317\Visual Studio\OpenGLProject\3주차_실습\x64\Debug\3주차_실습.exe
+C:\Users\hhh317\Visual Studio\OpenGLProject\3주차_실습\x64\Debug\3주차_실습.pdb
