@@ -1,0 +1,2 @@
+C:\Users\hhh317\Visual Studio\OpenGLProject\GLU Modeling - 3D Primitives 확장 구현\Debug\GLU Modeling - 3D Primitives 확장 구현.exe
+C:\Users\hhh317\Visual Studio\OpenGLProject\GLU Modeling - 3D Primitives 확장 구현\Debug\GLU Modeling - 3D Primitives 확장 구현.pdb

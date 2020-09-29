@@ -1,1 +1,4 @@
-﻿  3주차_실습.vcxproj -> C:\Users\hhh317\Visual Studio\OpenGLProject\3주차_실습\x64\Debug\3주차_실습.exe
+﻿  [4-5] glu_quadrics.cpp
+C:\Users\hhh317\Visual Studio\OpenGLProject\3주차_실습\[4-5] glu_quadrics.cpp(8,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\hhh317\Visual Studio\OpenGLProject\3주차_실습\[4-5] glu_quadrics.cpp(12,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  3주차_실습.vcxproj -> C:\Users\hhh317\Visual Studio\OpenGLProject\3주차_실습\x64\Debug\3주차_실습.exe
