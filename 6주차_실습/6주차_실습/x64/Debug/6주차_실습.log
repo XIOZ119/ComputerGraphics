@@ -1,0 +1,5 @@
+﻿  [3-3] 2D Gasket Program.cpp
+C:\Users\hhh317\Visual Studio\OpenGLProject\6주차_실습\6주차_실습\[3-3] 2D Gasket Program.cpp(26,34): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hhh317\Visual Studio\OpenGLProject\6주차_실습\6주차_실습\[3-3] 2D Gasket Program.cpp(27,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\hhh317\Visual Studio\OpenGLProject\6주차_실습\6주차_실습\[3-3] 2D Gasket Program.cpp(37,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  6주차_실습.vcxproj -> C:\Users\hhh317\Visual Studio\OpenGLProject\6주차_실습\6주차_실습\x64\Debug\6주차_실습.exe
